@@ -85,7 +85,22 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**) 
+Aqui estão alguns dos principais comandos do Git no Bash:
 
+1.git init: Inicia um novo repositório Git na pasta atual.
+2.git clone [url]: Clona um repositório Git existente para a sua máquina local.
+3.git add [arquivo]: Adiciona um arquivo ou diretório específico ao index (staging area).
+4.git commit -m "[mensagem]": Registra as alterações no repositório, adicionando uma mensagem que descreve as alterações.
+5.git status: Mostra o estado atual do repositório, incluindo arquivos modificados, adicionados ou excluídos.
+6.git pull: Puxa as alterações mais recentes do repositório remoto para o repositório local.
+7.git push: Envia os commits locais para o repositório remoto.
+8.git branch: Lista todas as branches locais.
+9.git checkout [branch]: Muda para a branch especificada.
+10.git merge [branch]: Mescla a branch especificada na branch atual.
+11.git log: Mostra o histórico de commits.
+12.git remote -v: Lista os repositórios remotos configurados.
+13.git config --global user.name "[seu nome]": Configura o nome de usuário global para commits.
+14.git config --global user.email "[seu email]": Configura o email global para commits.
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
